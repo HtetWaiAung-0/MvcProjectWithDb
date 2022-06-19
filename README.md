@@ -1,2 +1,0 @@
-# MvcProjectWithDb
-# MvcProjectWithDb
